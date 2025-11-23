@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2025-11-22T07:50:13.256Z",
+  "createdAt": "2025-11-21T18:18:34.856Z",
+  "id": "KsUO3qx53nGOc5mm",
+  "name": "Awake",
+  "active": true,
+  "isArchived": false,
+  "nodes": [
+    {
+      "parameters": {
+        "path": "aee39f4e-adc9-4e29-8a45-57f5143c0ebd",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "351f7172-8427-4011-a226-feb496540fe7",
+      "name": "Webhook",
+      "webhookId": "aee39f4e-adc9-4e29-8a45-57f5143c0ebd"
+    }
+  ],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1",
+    "saveDataSuccessExecution": "none",
+    "saveExecutionProgress": false,
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "KsUO3qx53nGOc5mm"
+  },
+  "staticData": null,
+  "meta": null,
+  "pinData": {},
+  "versionId": "c5b87e39-ec08-4b9a-b5ec-62d9f4464eb8",
+  "triggerCount": 1,
+  "shared": [
+    {
+      "updatedAt": "2025-11-21T18:18:34.856Z",
+      "createdAt": "2025-11-21T18:18:34.856Z",
+      "role": "workflow:owner",
+      "workflowId": "KsUO3qx53nGOc5mm",
+      "projectId": "gzdFK2cRUyHfm2gz"
+    }
+  ],
+  "tags": []
+}
